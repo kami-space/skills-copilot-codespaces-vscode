@@ -1,0 +1,2 @@
+// abstrat class for vehicle
+
